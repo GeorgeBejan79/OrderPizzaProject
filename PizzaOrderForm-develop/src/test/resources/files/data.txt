@@ -1,0 +1,5 @@
+name: NameFromDataFile
+expectedMessage = Thank you for your order! TOTAL: 33.75 Small 6 Slices - no toppings
+quantity: 5
+email = test@gmail.com
+phone = 5107898888

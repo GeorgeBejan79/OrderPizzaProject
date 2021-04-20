@@ -1,0 +1,14 @@
+pizza1ID : pizza1Pizza
+pizza1Toppings1xpath : //div[@id='pizza1']//select[@class='toppings1']
+pizza1Toppings2xpath : //div[@id='pizza1']//select[@class='toppings2']
+pizza1QuantityID     : pizza1Qty
+pizza1CostID         : pizza1Cost
+radioCreditCardID    : ccpayment
+radioCashID          : cashpayment
+emailID              : email
+nameID               : name
+phoneID              : phone
+placeOrderButtonID   : placeOrder
+resetButtonID        : reset
+dialogID             : dialog
+dialogTextxpath      : //div[@id='dialog']/p")
